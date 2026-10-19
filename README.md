@@ -1,5 +1,9 @@
 # CodeIgniter 4 Application Starter
 
+## Hasil
+
+go  to https://lspshop.site.je
+
 ## PENTING
 
  Install semua dependency-nya ( Menggunakan Terminal VSCODE ) 
