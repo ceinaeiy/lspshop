@@ -1,5 +1,12 @@
 # CodeIgniter 4 Application Starter
 
+## PENTING
+
+ Install semua dependency-nya ( Menggunakan Terminal VSCODE ) 
+   ```bash
+   composer install
+   ```
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
